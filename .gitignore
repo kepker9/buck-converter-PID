@@ -1,0 +1,31 @@
+# LTspice simulation outputs
+*.raw
+*.log
+*.op.raw
+*.fft
+*.mout
+*.net
+*.cir.tmp
+
+# LTspice backup and temporary files
+*.bak
+*.tmp
+*.asc~
+*.asy~
+*~
+
+# MATLAB temporary files
+*.asv
+*.autosave
+slprj/
+*.slxc
+
+# macOS system files
+.DS_Store
+.AppleDouble
+._*
+
+# Editor temporary files
+*.swp
+*.swo
+
